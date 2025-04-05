@@ -1,0 +1,21 @@
+# Archivos de datos
+covtype.csv
+covtype_sample.csv
+*.data
+*.gz
+
+# Modelos guardados
+*.pkl
+*.joblib
+*.h5
+
+# Carpetas comunes
+__pycache__/
+.ipynb_checkpoints/
+.env
+.venv
+.DS_Store
+
+# Archivos temporales o de sistema
+*.log
+*.tmp
